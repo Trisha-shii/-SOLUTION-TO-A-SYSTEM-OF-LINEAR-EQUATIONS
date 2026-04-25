@@ -30,7 +30,7 @@ X = np.linalg.solve(A,B)
 print(X)
 ```
 ## Output:
-<img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/2877540a-25d3-49b7-89eb-8d8273cc257d" />
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/6a817417-f058-460c-b447-6601a76efc54" />
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
